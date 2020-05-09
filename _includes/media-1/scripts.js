@@ -27,88 +27,18 @@
             id: 'mapbox.light'
         }).addTo(osmap);
 
-        // pos1
-        var pos1 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/1.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [5, -50]
+        // punto
+        var punto = L.icon({
+            iconUrl: 'https://storage.googleapis.com/gpes-static/ciudades-covid/punto.png',
+            iconAnchor: [15, 15],
+            popupAnchor: [5, -15]
         });
-
-        // pos2
-        var pos2 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/2.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
-        });
-
-        // pos3
-        var pos3 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/3.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [5, -50]
-        });
-
-        // pos4
-        var pos4 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/4.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
-        });
-
-        // pos5
-        var pos5 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/5.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
-        });
-
-        // pos6
-        var pos6 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/6.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [5, -50]
-        });
-
-        // pos7
-        var pos7 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/7.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
-        });
-
-        // pos8
-        var pos8 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/8.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [5, -50]
-        });
-
-        // pos9
-        var pos9 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/9.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
-        });
-
-        // pos10
-        var pos10 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/10.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
-        });
-
-        // pos11
-        var pos11 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/11.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
-        });
-
-        // pos12
-        var pos12 = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/neopolitan-cities-map/12.png',
-            iconAnchor: [30, 55],
-            popupAnchor: [0, -45]
+        
+        // estrella
+        var estrella = L.icon({
+            iconUrl: 'https://storage.googleapis.com/gpes-static/ciudades-covid/estrella.png',
+            iconAnchor: [15, 15],
+            popupAnchor: [5, -15]
         });
 
 // Heello
@@ -117,9 +47,10 @@
         L.marker([ {{ city.lat }}, {{ city.long }}], {
             icon: {{ city.icon }}
         }).addTo(osmap).bindPopup(`
-        <h3>{{ city.name }} <span class="scoreCity {{ city.color }}">{{ city.score }}</span></h3>
+        <h3>{{ city.name }}</h3>
         
         {{ city.text }}
+        <p><a href="{{ city.link }}" target="_blank">Enlace oficial</a></p>
     `, {
             maxWidth: 280
         });

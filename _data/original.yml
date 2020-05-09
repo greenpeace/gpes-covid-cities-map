@@ -3,124 +3,19 @@ lang: es
 
 media-1:
     cities:
-        - Albacete:
-          name: Albacete
-          lat: 38.9963172
-          long: -1.8595383
-          icon: pos12
-          color: red
-          score: "3,7"
-          text: >
-            <p>Al igual que sucede en otras ciudades medianas y pequeñas, se detecta un abuso del coche para trayectos de corta distancia que son fácilmente realizables andando o en bicicleta.</p>
-            <p>Aunque Albacete ofrece unas condiciones a priori favorables para la movilidad sostenible, es necesario disponer de más información para realizar un diagnóstico adecuado y proponer mejoras.</p>
-        - Barcelona:
-          name: Barcelona
-          lat: 41.3830491
-          long: 2.1709097
-          icon: pos3
-          color: green
-          score: "6,5"
-          text: >
-            <p>Tras varios años de políticas en favor de la movilidad peatonal, una gran red ciclista y la nueva red de autobús, Barcelona está reduciendo el uso del coche en favor de modos limpios.</p>
-            <p>Pese a los buenos datos, los niveles de ruido, contaminación y accidentalidad son aún inaceptables. Barcelona necesita reducir la intensidad y velocidad del tráfico en sus grandes avenidas.</p>
-        - Bilbao:
-          name: Bilbao
-          lat: 43.2645682
-          long: -2.93305
-          icon: pos1
-          color: green
-          score: "6,9"
-          text: >
-            <p>La movilidad peatonal es la protagonista de la vida urbana de Bilbao: un 64% de los desplazamientos se realizan a pie, mientras que el uso del coche es solo del 11%.</p>
-            <p>Su Plan de Movilidad incluye participación pública y perspectiva de género, con el reto inmediato de incrementar la movilidad ciclista, siguiendo el ejemplo de Vitoria y San Sebastián.</p>
         - Madrid:
           name: Madrid
-          lat: 40.4308137
-          long: -3.704609
-          icon: pos5
-          color: lightgreen
-          score: "5,9"
+          lat: 40.416775
+          long: -3.703790
+          icon: punto
+          link: https://www.eldiario.es/madrid/Madrid-trafico-parques-pequenos-distrito_0_1024697854.html
           text: >
-            <p>Las recientes medidas contra la contaminación del tráfico, como el Protocolo de Calidad del Aire o ‘Madrid Central’, han colocado a la movilidad sostenible en el centro del debate público.</p>
-            <p>La bajada del tráfico en la ciudad no se refleja en el resto de la Comunidad, siendo necesario impulsar el transporte público con la mejora de Metro, nuevos Bus-VAO y un protocolo regional.</p>
-        - Malaga:
-          name: Málaga
-          lat: 36.7270572
-          long: -4.4229972
-          icon: pos7
-          color: lightgreen
-          score: "5,2"
+            <p>29 calles peatonales en sábados y domingos</p>
+        - Barcelona:
+          name: Barcelona
+          lat: 41.385063
+          long: 2.173404
+          icon: estrella
+          link: https://www.barcelona.cat/infobarcelona/es/como-nos-desplazaremos-cuando-empiece-el-desconfinamiento_942252.html
           text: >
-            <p>Aunque el uso de los modos sostenibles ha mejorado, Málaga está lejos de cumplir los objetivos del Plan de Movilidad. El uso del coche es todavía elevado respecto al transporte público.</p>
-            <p>Medidas como completar la red de metro en ejecución, implantar la integración tarifaria y aumentar la red de vías ciclistas pueden mejorar la movilidad en el corto plazo.</p>
-        - Murcia:
-          name: Murcia
-          lat: 37.9911482
-          long: -1.1350721
-          icon: pos8
-          color: orange
-          score: "4,8"
-          text: >
-            <p>La particular dispersión urbana de Murcia condiciona su transporte y dificulta la movilidad de proximidad, donde el uso del coche (54%) es mayoritario frente al resto.</p>
-            <p>Más allá del tranvía, hacen falta medidas valientes: vías reservadas para autobús, desarrollar y electrificar la red de Cercanías e implantar políticas urbanísticas orientadas al transporte.</p>
-        - Palma:
-          name: Palma
-          lat: 39.5930845
-          long: 2.6493386
-          icon: pos10
-          color: orange
-          score: "4,6"
-          text: >
-            <p>La presión turística de la isla y el excesivo índice de motorización perjudican las cifras de movilidad, que no obstante presentan una mejora, acercándose al objetivo de su Plan de Movilidad.</p>
-            <p>La puesta en marcha de las medidas del Plan y la promoción del vehículo eléctrico prevista en la Ley Balear debe acompañarse de un aumento de las zonas peatonales, todavía muy escasas.</p>
-        - Pamplona:
-          name: Pamplona
-          lat: 42.8131792
-          long: -1.6451298
-          icon: pos9
-          color: orange
-          score: "4,6"
-          text: >
-            <p>Pese al esfuerzo para impulsar la movilidad sostenible, el uso del coche aumenta en detrimento de las personas que caminan y del autobús, mientras que la bicicleta no termina de consolidarse.</p>
-            <p>La facilidad para caminar en el centro histórico es un potencial que debe conjugarse con soluciones para moverse en la periferia, que en muchos casos todavía es difícil de hacer sin coche.</p>
-        - Santiago de Compostela:
-          name: Santiago de Compostela
-          lat: 42.8753565
-          long: -8.5477743
-          icon: pos11
-          color: red
-          score: "4,4"
-          text: >
-            <p>La creciente dispersión de la población hacia los municipios del entorno ha provocado el aumento de la dependencia del coche (40%) y un bajo uso del transporte público (12%).</p>
-            <p>Un centro urbano muy compacto y el bajo índice de motorización facilitan la movilidad a pie, que debe ser impulsada junto a medidas de limitación del tráfico y la mejora de la intermodalidad.</p>
-        - Sevilla:
-          name: Sevilla
-          lat: 37.393491
-          long: -5.9857882
-          icon: pos4
-          color: lightgreen
-          score: "5,9"
-          text: >
-            <p>La facilidad de caminar en el centro histórico de Sevilla se suma al gran crecimiento de la bicicleta hace más de 10 años, si bien existen grandes desigualdades entre el centro y la periferia.</p>
-            <p>Sevilla y su área metropolitana necesita un transporte público eficaz a través de plataformas reservadas de autobús (BRT) y recuperar el ‘Plan Centro’ para poner freno al abuso del coche.</p>
-        - Valencia:
-          name: Valencia
-          lat: 39.4716012
-          long: -0.3852102
-          icon: pos2
-          color: green
-          score: "6,6"
-          text: >
-            <p>Tras invertir las políticas de una ciudad diseñada para el coche, hoy los viajes a pie superan el 50% y aumenta el uso de la bicicleta, gracias a una red ciclista con más de 150 nuevos km.</p>
-            <p>Para mejorar aún más estos datos, Valencia necesita incrementar el uso del transporte público, implantando una tarjeta única de transporte y priorizando el autobús en los accesos.</p>
-        - Zaragoza:
-          name: Zaragoza
-          lat: 41.6470041
-          long: -0.8933507
-          icon: pos6
-          color: lightgreen
-          score: "5,5"
-          text: >
-            <p>Desde 2004 los viajes a pie han aumentado, la bicicleta es una opción viable y crece el uso del bus y tranvía, lo que coloca a Zaragoza en la buena dirección.</p>
-            <p>Las buenas medidas en el centro deben trasladarse a los barrios y municipios del entorno, todavía muy dependientes del coche, con más servicios de transporte y vías reservadas para el autobús.</p>
-            
+            <p>Anunciado un plan de 12 km de aceras ampliadas, 17 actuaciones de mejora de carril bus y 21 km de carril bici</p>

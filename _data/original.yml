@@ -99,4 +99,67 @@ media-1:
           link: https://www.albaceteabierto.es/noticia/42793/albacete/el-ayuntamiento-de-albacete-volver-a-corta-varias-calles-este-fin-de-semana-para-descongestionar-los-parques.html
           text: >
             <p>8 calles peatonalizadas los sábados y domingos de 8 a 22h y una todos los días de 20 a 22h</p>
-
+        - Girona:
+          name: Girona
+          lat: 41.9803112
+          long: 2.7835618
+          icon: estrella
+          link: https://www.diaridegirona.cat/comarques/2020/05/06/girona-elimina-carrils-lorenzana-placa/1042245.html
+          text: >
+            <p>40 actuaciones en la vía pública, ampliando aceras sobre carriles de circulación o franjas de aparcamiento. Nuevos carriles bici y zonas 30.</p>
+        - Valencia:
+          name: Valencia
+          lat: 39.4079661
+          long: -0.5019413
+          icon: estrella
+          link: https://valenciaplaza.com/arrancan-las-obras-en-la-plaza-del-ayuntamiento
+          text: >
+            <p>Ampliación de aceras en varias zonas de la ciudad y peatonalización de la Plaza del Ayuntamiento y otras 6 calles del centro</p>
+        - Alicante:
+          name: Alicante
+          lat: 38.3579545
+          long: -0.4901756
+          icon: punto
+          link: https://www.alicante.es/es/noticias/urbanismo-confecciona-plan-que-permitira-incrementar-espacio-publico-alicante
+          text: >
+            <p>Anunciado un plan de reordenación del espacio público para ampliar aceras. De momento peatonalizaciones parciales de 20 a 23h.</p>
+        - Murcia:
+          name: Murcia
+          lat: 37.9805948
+          long: -1.1622808
+          icon: punto
+          link: https://www.laopiniondemurcia.es/murcia/2020/04/30/gran-via-murcia-cierra-viernes/1110664.html
+          text: >
+            <p>Gran Vía peatonal domingos y festivos</p>
+        - Almeria:
+          name: Almería
+          lat: 36.8415916
+          long: -2.4922221
+          icon: punto
+          link: 
+          text: >
+            <p>2 zonas peatonalizadas de 9 a 21h</p>
+        - Malaga:
+          name: Málaga
+          lat: 36.719027
+          long: -4.457252
+          icon: punto
+          link: https://www.malagahoy.es/malaga/Coronavirus-Malaga-corte-trafico-paseo-este_0_1462354228.html
+          text: >
+            <p>Paseo Marítimo peatonal todos los días en la zona este y fines de semana en la zona oeste</p>
+        - Cordoba:
+          name: Córdoba
+          lat: 37.8916069
+          long: -4.8195908
+          icon: punto
+          link: https://sevilla.abc.es/andalucia/cordoba/sevi-coronavirus-cordoba-domingos-y-festivos-habra-mas-calles-peatonales-otros-barrios-cordoba-202005062341_noticia.html
+          text: >
+            <p>2 zonas peatonalizadas domingos y festivos, con previsión de ampliarse a otros puntos de la ciudad</p>
+        - Cadiz:
+          name: Cádiz
+          lat: 36.5164502
+          long: -6.3175726
+          icon: punto
+          link: https://www.lavozdigital.es/cadiz/lvdi-limitan-20-velocidad-coches-algunas-calles-cadiz-para-preferencia-peatones-202005011552_noticia.html
+          text: >
+            <p>Reducción de velocidad a 20 km/h en calles residenciales y modificación de los tiempos de cruce en los semáforos</p>

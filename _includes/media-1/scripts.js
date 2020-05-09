@@ -30,7 +30,7 @@
         // punto
         var punto = L.icon({
             iconUrl: 'https://storage.googleapis.com/gpes-static/ciudades-covid/punto.png',
-            iconAnchor: [15, 15],
+            iconAnchor: [15, 20],
             popupAnchor: [5, -15]
         });
         

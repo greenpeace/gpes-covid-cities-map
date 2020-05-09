@@ -11,6 +11,22 @@ media-1:
           link: https://www.eldiario.es/madrid/Madrid-trafico-parques-pequenos-distrito_0_1024697854.html
           text: >
             <p>29 calles peatonales en sábados y domingos</p>
+        - Zaragoza:
+          name: Zaragoza
+          lat: 41.648823
+          long: -0.889085
+          icon: punto
+          link: https://www.heraldo.es/noticias/aragon/zaragoza/2020/05/07/desescalada-en-zaragoza-estas-son-las-calles-que-seran-peatonales-los-fines-de-semana-1373669.html
+          text: >
+            <p>16 calles peatonales sábados y domingos de 7.30 a 21.30h. También en fin de semana todas las calles de un carril pasan a ser prioridad peatonal.</p>
+        - Sevilla:
+          name: Sevilla
+          lat: 37.389091
+          long: -5.984459
+          icon: punto
+          link: https://www.sevilla.org/actualidad/noticias/ayuntamiento-amplia-tiempos-paso-peatones-principales-cruces-peatonalizara-tramos-11-grandes-vias-fines-de-semana-en-diferentes-distritos
+          text: >
+            <p>11 calles peatonales en fin de semana de 10 a 15h y de 19 a 22h. También se amplían los tiempos de cruce en los semáforos.</p>
         - Barcelona:
           name: Barcelona
           lat: 41.385063

@@ -35,3 +35,68 @@ media-1:
           link: https://www.barcelona.cat/infobarcelona/es/como-nos-desplazaremos-cuando-empiece-el-desconfinamiento_942252.html
           text: >
             <p>Anunciado un plan de 12 km de aceras ampliadas, 17 actuaciones de mejora de carril bus y 21 km de carril bici</p>
+        - Vigo:
+          name: Vigo    
+          lat: 42.2393018
+          long: -8.723502
+          icon: punto
+          link: https://www.lavozdegalicia.es/noticia/sociedad/2020/05/01/coruna-vigo-ganan-espacios-peatones/00031588326720631309922.htm
+          text: >
+            <p>34 calles peatonales en domingos y festivos</p>
+        - ACoruna:
+          name: A Coruña
+          lat: 43.3619312
+          long: -8.4171475
+          icon: estrella
+          link: https://twitter.com/ConcelloCoruna/status/1258124625931726848
+          text: >
+            <p>Peatonalización provisional en 3 ubicaciones. Previsa Ciudad 30, peatonalizaciones permanentes, nuevas plataformas de transporte público y ampliación de bicicleta pública</p>
+        - Valladolid:
+          name: Valladolid
+          lat: 41.7034243
+          long: -4.9492417
+          icon: estrella
+          link: https://www.eldiadevalladolid.com/noticia/Z66D77345-C67E-1BEA-BDBA13DD96AC1895/El-Plan-de-Movilidad-prioriza-a-los-peatones-y-las-bicis
+          text: >
+            <p>13 actuaciones de peatonalización permanente, en dos fases. Se ejecutarán 19 tramos de vías ciclistas (25 km) y la red de carril bus triplica su longitud con 9 nuevos tramos.</p>
+        - Gijon:
+          name: Gijón
+          lat: 43.5400092
+          long: -5.6687108
+          icon: punto
+          link: https://twitter.com/gijon/status/1258042095232782336
+          text: >
+            <p>Supresión al tráfico rodado de un carril del paseo del Muro de San Lorenzo</p>
+        - Santander:
+          name: Santander
+          lat: 43.4625227
+          long: -3.8464141
+          icon: punto
+          link: https://www.eldiarioalerta.com/articulo/cabecera-santander/ayuntamiento-santander-restringira-trafico-diferentes-calles-ciudad/20200503080543077521.html
+          text: >
+            <p>En estudio la limitación al tráfico en 4 vías de la ciudad</p>
+        - CiudadReal:
+          name: Ciudad Real
+          lat: 38.9861052
+          long: -3.9620934
+          icon: estrella
+          link: https://www.miciudadreal.es/2020/05/06/el-ayuntamiento-de-ciudad-real-cerrara-al-trafico-las-calles-pendientes-de-peatonalizar-y-estudia-cortar-otras-los-fines-de-semana-y-festivos/
+          text: >
+            <p>17 calles peatonalizadas los sábados por la tarde, domingos y festivos. 5 de ellas serán peatonales de forma definitiva.</p>
+        - Toledo:
+          name: Toledo
+          lat: 39.8623199
+          long: -4.0696422
+          icon: punto
+          link: https://www.clm24.es/articulo/toledo/ultima-hora-desescalada-toledo-corta-trafico-varias-calles-aumentar-espacios-peatonales/20200505131224278342.html
+          text: >
+            <p>4 calles peatonalizadas de 16 a 22h</p>
+        - Albacete:
+          name: Albacete
+          lat: 38.9922607
+          long: -1.8956948
+          icon: punto
+          link: https://www.albaceteabierto.es/noticia/42793/albacete/el-ayuntamiento-de-albacete-volver-a-corta-varias-calles-este-fin-de-semana-para-descongestionar-los-parques.html
+          text: >
+            <p>8 calles peatonalizadas los sábados y domingos de 8 a 22h y una todos los días de 20 a 22h</p>
+

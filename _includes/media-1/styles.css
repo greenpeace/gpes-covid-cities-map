@@ -1,0 +1,55 @@
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+    background-color: #fff;
+}
+
+.leaflet-container a.leaflet-popup-close-button { 
+    top: 5px;
+    right: 5px;
+}
+
+.leaflet-popup-content-wrapper {
+    color: #212529;
+    font-family: "Work Sans", sans-serif;
+}
+
+.leaflet-popup h3 {
+    font-size: 20px !important;
+}
+
+.leaflet-popup p {
+    margin: 5px 0 5px 0;
+    font-size: 14px !important;
+}
+
+.nombre_central {
+    font-weight: 700;
+}
+
+.importe_pago {
+    color: red;
+}
+
+.scoreCity {
+    float: right; 
+    font-weight: bold; 
+    font-size: 1.5em;
+    color: #777;
+    margin-right: 9px;
+}
+
+.red {
+   color: #f00; 
+}
+
+.green {
+    color: #3ea03e;
+}
+
+.lightgreen {
+    color: #5fb75f;
+}
+
+.orange {
+    color: #e0670e;
+}

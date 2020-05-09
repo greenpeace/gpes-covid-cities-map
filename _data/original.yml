@@ -163,3 +163,99 @@ media-1:
           link: https://www.lavozdigital.es/cadiz/lvdi-limitan-20-velocidad-coches-algunas-calles-cadiz-para-preferencia-peatones-202005011552_noticia.html
           text: >
             <p>Reducción de velocidad a 20 km/h en calles residenciales y modificación de los tiempos de cruce en los semáforos</p>
+        - Caceres:
+          name: Cáceres
+          lat: 39.4716976
+          long: -6.4258246
+          icon: punto
+          link: https://www.hoy.es/caceres/plan-peatonal-caceres-20200508210745-nt.html
+          text: >
+            <p>En estudio la ampliación de espacios peatonales mediante eliminación de carriles o cambios en el aparcamiento</p>
+        - Salamanca:
+          name: Salamanca
+          lat: 40.9606411
+          long: -5.668109
+          icon: punto
+          link: http://www.noticiascyl.com/t/1948736/salamanca-todo-salamanca-salamanca-plantea-peatonalizar-calles-quitar-aparcamientos-dar-espacio-terrazas-viandantes
+          text: >
+            <p>En estudio la peatonalización de ciertas calles para ampliar espacios peatonales y terrazas, aún sin definir</p>
+        - Burgos:
+          name: Burgos
+          lat: 42.3407968
+          long: -3.7065795
+          icon: punto
+          link: https://www.burgosconecta.es/burgos/ayuntamiento/varias-calles-burgos-20200507115723-nt.html
+          text: >
+            <p>9 calles peatonales los fines de semana</p>
+        - Palencia:
+          name: Palencia
+          lat: 42.0088745
+          long: -4.5357951
+          icon: punto
+          link: https://www.ondacero.es/emisoras/castilla-y-leon/palencia/noticias/carolina-gomez-cerrar-todo-centro-viable_202005055eb157f56f86630001a3bb2b.html
+          text: >
+            <p>En estudio cierres parciales sábados tarde y domingos</p>
+        - Leon:
+          name: León
+          lat: 42.5997071
+          long: -5.5688646
+          icon: punto
+          link: https://www.leonoticias.com/leon/diez-plantea-cambios-movilidad-leon-20200507123742-nt.html
+          text: >
+            <p>En estudio la ampliación de aceras, habilitar Zonas 30 y crear nuevos corredores peatonales</p>
+        - Logrono:
+          name: Logroño
+          lat: 42.4603508
+          long: -2.4572039
+          icon: estrella
+          link: https://www.larioja.com/la-rioja/coronavirus/directo-hermoso-presenta-20200505094049-nt.html
+          text: >
+            <p>Más espacio peatonal en las calles con aceras inferiores a 3 metros, peatonalización completa de algunas calles, habilitar Zonas 30 nuevos itinerarios ciclistas</p>
+        - VitoriaGasteiz:
+          name: Vitoria-Gasteiz
+          lat: 42.8449648
+          long: -2.6717889
+          icon: estrella
+          link: https://www.elcorreo.com/alava/araba/comienza-trabajos-ampliacion-20200506114018-nt.html
+          text: >
+            <p>Ampliación de aceras en 6 calles, peatonalizaciones completas y nuevas vías ciclistas para conectar con polígonos industriales</p>
+        - Bilbao:
+          name: Bilbao
+          lat: 43.2686751
+          long: -2.9362058
+          icon: punto
+          link: https://cadenaser.com/emisora/2020/05/07/radio_bilbao/1588859491_515050.html
+          text: >
+            <p>Se habilitan 13 zonas de prioridad peatonal, sábados y domingos de 7 a 22h</p>
+        - DonostiaSanSebastian:
+          name: Donostia-San Sebastián
+          lat: 43.3073497
+          long: -1.9914789
+          icon: punto
+          link: https://www.donostitik.com/ota-a-partir-del-lunes-en-donostia-y-cambios-en-algunas-calles/
+          text: >
+            <p>6 nuevas calles residenciales y peatonalizaciones en 3 paseos de 7:30 a 10h y de 20 a 21:30h</p>
+        - Pamplona:
+          name: Pamplona
+          lat: 42.8163539
+          long: -1.6452091
+          icon: punto
+          link: https://pamplonaactual.com/pamplona-estudiara-la-peatonalizacion-de-avenidas-y-calles-de-especial-afluencia-durante-los-paseos/
+          text: >
+            <p>En estudio la ampliación de espacios peatonales, sin definir por el momento</p>
+        - PalmadeMallorca:
+          name: Palma de Mallorca
+          lat: 39.5674497
+          long: -2.6461333
+          icon: punto
+          link: https://www.diariodemallorca.es/palma/2020/05/06/cort-cierra-circulacion-14-kilometros/1507394.html
+          text: >
+            <p>14 km peatonales los fines de semana, posible ampliación en estudio</p>
+        - SantaCruzdeTenerife:
+          name: Santa Cruz de Tenerife
+          lat: 28.4577404
+          long: -16.2770656
+          icon: punto
+          link: https://www.eldia.es/santa-cruz-de-tenerife/2020/05/06/capital-planea-cortar-vias-ampliar/1076183.html
+          text: >
+            <p>En estudio la ampliación de espacios peatonales, sin definir por el momento</p>

@@ -12,7 +12,7 @@
         var elwidth = containerEl.offsetWidth;
         var mapheight = elwidth >= 550 ? 550 : 400;
         var zoomvalue = elwidth >= 550 ? 6 : 5;
-        var bounds = new L.LatLngBounds(new L.LatLng(28, -24), new L.LatLng(55, 19.2));
+        var bounds = new L.LatLngBounds(new L.LatLng(22, -24), new L.LatLng(55, 19.2));
         document.getElementById("map6").style.height = mapheight + "px";
 
         var osmap = L.map('map6', {
@@ -21,7 +21,7 @@
         }).setView([40.1, -3], zoomvalue);
 
         L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.png', {
-            maxZoom: 7,
+            maxZoom: 8,
             minZoom: 3,
             attribution: '&copy; OpenStreetMap contributors, Wikimedia',
             id: 'mapbox.light'

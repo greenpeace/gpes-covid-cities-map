@@ -1,7 +1,7 @@
 github_user: greenpeace
-github_repository: gpes-neopolitan-cities-ranking
+github_repository: gpes-covid-cities-map
 markdown: kramdown
-title: "Map cities ranking"
-long_title: "Responsive map cities ranking"
+title: "Covid cities map"
+long_title: "Covid cities map"
 lead: >
   <p>About this map.</p>

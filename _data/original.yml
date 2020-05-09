@@ -246,7 +246,7 @@ media-1:
         - PalmadeMallorca:
           name: Palma de Mallorca
           lat: 39.5674497
-          long: -2.6461333
+          long: 2.6461333
           icon: punto
           link: https://www.diariodemallorca.es/palma/2020/05/06/cort-cierra-circulacion-14-kilometros/1507394.html
           text: >

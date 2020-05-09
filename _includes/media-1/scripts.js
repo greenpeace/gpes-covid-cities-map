@@ -27,16 +27,22 @@
 //            id: 'mapbox.light'
 //        }).addTo(osmap);
         
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+//        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+//            maxZoom: 8,
+//            minZoom: 3,
+//            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+//        }).addTo(osmap);
+        
+        L.tileLayer('https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png', {
             maxZoom: 8,
             minZoom: 3,
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
         }).addTo(osmap);
 
         // punto
         var punto = L.icon({
             iconUrl: 'https://storage.googleapis.com/gpes-static/ciudades-covid/punto.png',
-            iconAnchor: [15, 35],
+            iconAnchor: [15, 30],
             popupAnchor: [5, -15]
         });
         

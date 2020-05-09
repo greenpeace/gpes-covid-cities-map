@@ -20,17 +20,23 @@
             maxBounds: bounds
         }).setView([40.1, -3], zoomvalue);
 
-        L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.png', {
+//        L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.png', {
+//            maxZoom: 8,
+//            minZoom: 3,
+//            attribution: '&copy; OpenStreetMap contributors, Wikimedia',
+//            id: 'mapbox.light'
+//        }).addTo(osmap);
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 8,
             minZoom: 3,
-            attribution: '&copy; OpenStreetMap contributors, Wikimedia',
-            id: 'mapbox.light'
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
         }).addTo(osmap);
 
         // punto
         var punto = L.icon({
             iconUrl: 'https://storage.googleapis.com/gpes-static/ciudades-covid/punto.png',
-            iconAnchor: [15, 20],
+            iconAnchor: [15, 35],
             popupAnchor: [5, -15]
         });
         

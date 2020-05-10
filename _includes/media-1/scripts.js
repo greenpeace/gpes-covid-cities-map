@@ -62,7 +62,6 @@
         <h3>{{ city.name }}</h3>
         
         {{ city.text }}
-        {% if city.link %}<p><a href="{{ city.link }}" target="_blank">Enlace oficial</a></p>{% endif %}
     `, {
             maxWidth: 280
         });

@@ -41,8 +41,8 @@
 
         // punto
         var punto = L.icon({
-            iconUrl: 'https://storage.googleapis.com/gpes-static/ciudades-covid/punto.png',
-            iconAnchor: [15, 30],
+            iconUrl: 'https://storage.googleapis.com/gpes-static/ciudades-covid/punto.png?v=1',
+            iconAnchor: [15, 27],
             popupAnchor: [5, -15]
         });
         

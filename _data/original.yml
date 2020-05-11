@@ -259,3 +259,35 @@ media-1:
           link: https://www.eldia.es/santa-cruz-de-tenerife/2020/05/06/capital-planea-cortar-vias-ampliar/1076183.html
           text: >
             <p>10 calles peatonales los fines de semana, en diferentes horarios.</p>
+        - Melilla:
+          name: Melilla
+          lat: 35.2825
+          long: -2.9475
+          icon: estrella
+          link: https://medioambientemelilla.es/noticias/medidas-para-la-desescalada-en-sus-fases-y-movilidad/
+          text: >
+            <p>Desde el día 11 calles modifican su ordenación para ampliar espacios peatonales. También se peatonaliza el Paseo Marítimo los fines de semana.</p>
+        - Huesca:
+          name: Huesca
+          lat: 42.139804
+          long: -0.408831
+          icon: punto
+          link: https://www.huesca.es/-/el-ayuntamiento-de-huesca-interconectara-todos-los-carriles-bici-para-facilitar-la-movilidad?redirect=/actualidad
+          text: >
+            <p>Anunciada la interconexión mediante tramos provisionales de todas las vías ciclistas de la ciudad, en fechas aún por definir.</p>
+        - Jaen:
+          name: Jaen
+          lat: 37.769722
+          long: -3.788889
+          icon: punto
+          link: http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_fnot_d4_v1.jsp&contenido=45431&tipo=8&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+          text: >
+            <p>Anunciada la semipeatonalización de espacios en la calzada en varios itinerarios.</p>
+        - Cartagena:
+          name: Cartagena
+          lat: 37.609093
+          long: -0.978583
+          icon: punto
+          link: https://www.cartagena.es/detalle_noticias.asp?id=58867&pagina=1&c=&t=&d=&h=
+          text: >
+            <p>Alfonso XII peatonal sábados y domingos de 8 a 10h y de 20 a 23h.</p>

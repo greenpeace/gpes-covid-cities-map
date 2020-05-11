@@ -18,7 +18,7 @@
         var osmap = L.map('map6', {
             scrollWheelZoom: false,
             maxBounds: bounds
-        }).setView([40.1, -3], zoomvalue);
+        }).setView([39.85, -3], zoomvalue);
 
 //        L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.png', {
 //            maxZoom: 8,

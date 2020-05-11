@@ -10,7 +10,7 @@ media-1:
           icon: punto
           link: https://www.eldiario.es/madrid/Madrid-trafico-parques-pequenos-distrito_0_1024697854.html
           text: >
-            <p>29 calles peatonales en sábados y domingos</p>
+            <p>29 calles peatonales sábados y domingos de 8 a 22h</p>
         - Zaragoza:
           name: Zaragoza
           lat: 41.648823
@@ -18,7 +18,7 @@ media-1:
           icon: punto
           link: https://www.heraldo.es/noticias/aragon/zaragoza/2020/05/07/desescalada-en-zaragoza-estas-son-las-calles-que-seran-peatonales-los-fines-de-semana-1373669.html
           text: >
-            <p>16 calles peatonales sábados y domingos de 7.30 a 21.30h. También en fin de semana todas las calles de un carril pasan a ser prioridad peatonal.</p>
+            <p>16 calles peatonales sábados y domingos de 7:30 a 21:30. También en fin de semana todas las calles de un carril pasan a ser prioridad peatonal (10 km/h) y se limitan a 30 km/h el resto.</p>
         - Sevilla:
           name: Sevilla
           lat: 37.389091
@@ -34,7 +34,7 @@ media-1:
           icon: estrella
           link: https://www.barcelona.cat/infobarcelona/es/como-nos-desplazaremos-cuando-empiece-el-desconfinamiento_942252.html
           text: >
-            <p>Anunciado un plan de 12 km de aceras ampliadas, 17 actuaciones de mejora de carril bus y 21 km de carril bici</p>
+            <p>En marcha la ampliación de 12 km de aceras, 17 actuaciones de mejora de carril bus y 21 km de nuevas vías ciclistas, a completar en mayo.</p>
         - Vigo:
           name: Vigo    
           lat: 42.2393018
@@ -42,7 +42,7 @@ media-1:
           icon: punto
           link: https://www.lavozdegalicia.es/noticia/sociedad/2020/05/01/coruna-vigo-ganan-espacios-peatones/00031588326720631309922.htm
           text: >
-            <p>34 calles peatonales en domingos y festivos</p>
+            <p>22 calles peatonales todos los días de 17 a 23 h. Los domingos 70 calles peatonales de 8 a 23h.</p>
         - ACoruna:
           name: A Coruña
           lat: 43.3619312
@@ -63,10 +63,10 @@ media-1:
           name: Gijón
           lat: 43.5400092
           long: -5.6687108
-          icon: punto
+          icon: estrella
           link: https://twitter.com/gijon/status/1258042095232782336
           text: >
-            <p>Supresión al tráfico rodado de un carril del paseo del Muro de San Lorenzo</p>
+            <p>Ampliación permanente del espacio peatonal y ciclista en el paseo del Muro de San Lorenzo.</p>
         - Santander:
           name: Santander
           lat: 43.4625227
@@ -90,15 +90,15 @@ media-1:
           icon: punto
           link: https://www.clm24.es/articulo/toledo/ultima-hora-desescalada-toledo-corta-trafico-varias-calles-aumentar-espacios-peatonales/20200505131224278342.html
           text: >
-            <p>4 calles peatonalizadas de 16 a 22h</p>
+            <p>4 calles peatonales todos los días de 16 a 22h.</p>
         - Albacete:
           name: Albacete
           lat: 38.9922607
           long: -1.8956948
-          icon: punto
+          icon: estrella
           link: https://www.albaceteabierto.es/noticia/42793/albacete/el-ayuntamiento-de-albacete-volver-a-corta-varias-calles-este-fin-de-semana-para-descongestionar-los-parques.html
           text: >
-            <p>8 calles peatonalizadas los sábados y domingos de 8 a 22h y una todos los días de 20 a 22h</p>
+            <p>8 calles peatonalizadas los sábados y domingos de 8 a 22h. Desde el día 11 tres calles serán peatonales de forma definitiva.</p>
         - Girona:
           name: Girona
           lat: 41.9803112
@@ -130,7 +130,7 @@ media-1:
           icon: punto
           link: https://www.laopiniondemurcia.es/murcia/2020/04/30/gran-via-murcia-cierra-viernes/1110664.html
           text: >
-            <p>Gran Vía peatonal domingos y festivos</p>
+            <p>Pasos de peatones ampliados y con fases semafóricas más largas. Implantación de Zona 30 en toda la ciudad. Gran Vía peatonal los domingos.</p>
         - Almeria:
           name: Almería
           lat: 36.8415916
@@ -138,15 +138,15 @@ media-1:
           icon: punto
           link: 
           text: >
-            <p>2 zonas peatonalizadas de 9 a 21h</p>
+            <p>5 calles peatonales los domingos de 9 a 21h.</p>
         - Malaga:
           name: Málaga
           lat: 36.719027
           long: -4.457252
-          icon: punto
+          icon: estrella
           link: https://www.malagahoy.es/malaga/Coronavirus-Malaga-corte-trafico-paseo-este_0_1462354228.html
           text: >
-            <p>Paseo Marítimo peatonal todos los días en la zona este y fines de semana en la zona oeste</p>
+            <p>Corredor provisional Centro-Universidad para bicicleta, peatón y autobús. Paseo Marítimo peatonal todos los días (zona este) y fin de semana (zona oeste) con ampliación a más tramos en estudio.</p>
         - Cordoba:
           name: Córdoba
           lat: 37.8916069
@@ -154,23 +154,23 @@ media-1:
           icon: punto
           link: https://sevilla.abc.es/andalucia/cordoba/sevi-coronavirus-cordoba-domingos-y-festivos-habra-mas-calles-peatonales-otros-barrios-cordoba-202005062341_noticia.html
           text: >
-            <p>2 zonas peatonalizadas domingos y festivos, con previsión de ampliarse a otros puntos de la ciudad</p>
+            <p>9 calles peatonales los domingos y festivos.</p>
         - Cadiz:
           name: Cádiz
           lat: 36.5164502
           long: -6.3175726
-          icon: punto
+          icon: estrella
           link: https://www.lavozdigital.es/cadiz/lvdi-limitan-20-velocidad-coches-algunas-calles-cadiz-para-preferencia-peatones-202005011552_noticia.html
           text: >
-            <p>Reducción de velocidad a 20 km/h en calles residenciales y modificación de los tiempos de cruce en los semáforos</p>
+            <p>Las calles residenciales pasan a ser de prioridad peatonal (20 km/h) y se ampían los tiempos de cruce en los semáforos. El frente marítimo es peatonal todos los días de 20 a 23h.</p>
         - Caceres:
           name: Cáceres
           lat: 39.4716976
           long: -6.4258246
-          icon: punto
+          icon: estrella
           link: https://www.hoy.es/caceres/plan-peatonal-caceres-20200508210745-nt.html
           text: >
-            <p>En estudio la ampliación de espacios peatonales mediante eliminación de carriles o cambios en el aparcamiento</p>
+            <p>4 calles peatonales, ampliación del espacio peatonal en 12 calles más y creación de 4 'corredores saludables' para paseo y deporte.</p>
         - Salamanca:
           name: Salamanca
           lat: 40.9606411
@@ -226,23 +226,23 @@ media-1:
           icon: punto
           link: https://cadenaser.com/emisora/2020/05/07/radio_bilbao/1588859491_515050.html
           text: >
-            <p>Se habilitan 13 zonas de prioridad peatonal, sábados y domingos de 7 a 22h</p>
+            <p>Se habilitan 13 zonas de prioridad peatonal, sábados y domingos de 7 a 22h. Se amplían los tiempos del peatón en los semáforos y toda la ciudad será Zona 30.</p>
         - DonostiaSanSebastian:
           name: Donostia-San Sebastián
           lat: 43.3073497
           long: -1.9914789
-          icon: punto
+          icon: estrella
           link: https://www.donostitik.com/ota-a-partir-del-lunes-en-donostia-y-cambios-en-algunas-calles/
           text: >
-            <p>6 nuevas calles residenciales y peatonalizaciones en 3 paseos de 7:30 a 10h y de 20 a 21:30h</p>
+            <p>11 nuevas calles de prioridad peatonal permanente y 3 paseos peatonales de 7:30 a 10h y de 20 a 21:30h.</p>
         - Pamplona:
           name: Pamplona
           lat: 42.8163539
           long: -1.6452091
-          icon: punto
+          icon: estrella
           link: https://pamplonaactual.com/pamplona-estudiara-la-peatonalizacion-de-avenidas-y-calles-de-especial-afluencia-durante-los-paseos/
           text: >
-            <p>En estudio la ampliación de espacios peatonales, sin definir por el momento</p>
+            <p>5 calles peatonales permanentes, ampliación de aceras en varios tramos de la ciudad y creación de vías ciclistas provisionales.</p>
         - PalmadeMallorca:
           name: Palma de Mallorca
           lat: 39.5674497
@@ -258,4 +258,4 @@ media-1:
           icon: punto
           link: https://www.eldia.es/santa-cruz-de-tenerife/2020/05/06/capital-planea-cortar-vias-ampliar/1076183.html
           text: >
-            <p>En estudio la ampliación de espacios peatonales, sin definir por el momento</p>
+            <p>10 calles peatonales los fines de semana, en diferentes horarios.</p>

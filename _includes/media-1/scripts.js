@@ -62,6 +62,7 @@
         <h3>{{ city.name }}</h3>
         
         {{ city.text }}
+        <p><a target="_blank" href="{{ city.link }}">Enlace</a></p>
     `, {
             maxWidth: 280
         });

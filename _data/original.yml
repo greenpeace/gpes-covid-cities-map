@@ -250,7 +250,7 @@ media-1:
           icon: punto
           link: https://www.diariodemallorca.es/palma/2020/05/06/cort-cierra-circulacion-14-kilometros/1507394.html
           text: >
-            <p>14 km peatonales los fines de semana, posible ampliación en estudio</p>
+            <p>14 km peatonales de 19 a 23h, y los fines de semana completos.</p>
         - SantaCruzdeTenerife:
           name: Santa Cruz de Tenerife
           lat: 28.4577404
@@ -291,3 +291,51 @@ media-1:
           link: https://www.cartagena.es/detalle_noticias.asp?id=58867&pagina=1&c=&t=&d=&h=
           text: >
             <p>Alfonso XII peatonal sábados y domingos de 8 a 10h y de 20 a 23h.</p>
+        - Avila:
+          name: Ávila
+          lat: 40.656685
+          long: -4.681209
+          icon: punto
+          link: http://www.avila.es/articles/avila-se-queda-en-casa/item/4489-flexibilizacion-del-trafico-en-varias-zonas-con-el-objeto-de-facilitar-el-transito-de-los-peatones
+          text: >
+            <p>6 calles peatonales en fin de semana y una más todos los días de 17 a 23 horas.</p>
+        - Tarragona:
+          name: Tarragona
+          lat: 41.118660
+          long: 1.245330
+          icon: punto
+          link: https://www.tarragona.cat/seguretat/noticies/noticies-2020/lajuntament-pren-mesures-pel-cap-de-setmana-per-facilitar-que-es-respectin-les-distancies-interpersonals-durant-les-passejades
+          text: >
+            <p>Ampliación del espacio peatonal en varias calles el fin de semana, y en la zona del Puerto de 6 a 10 y de 20 a 23h.</p>
+        - Lugo:
+          name: Lugo
+          lat: 43.009739
+          long: -7.556758
+          icon: estrella
+          link: http://concellodelugo.gal/gl/novas/abre-ao-publico-o-novo-percorrido-peonil-da-ronda-da-muralla-habilitado-pola-area-de
+          text: >
+            <p>Ampliación del espacio peatonal en la Ronda da Muralla (2.5 km)</p>
+        - SantiagodeCompostela:
+          name: Santiago de Compostela
+          lat: 42.878212
+          long: -8.544844
+          icon: punto
+          link: http://santiagodecompostela.gal/hoxe/nova.php?id_nova=19520&lg=gal
+          text: >
+            <p>3 calles peatonales los sábados tarde y domingos.</p>
+        - Ourense:
+          name: Ourense
+          lat: 42.335789
+          long: -7.863881
+          icon: estrella
+          link: https://twitter.com/OurenseConcello/status/1259769183241482242
+          text: >
+            <p>2 tramos peatonales de forma permanente desde el 13/05</p>
+        - Castellón:
+          name: Castellón
+          lat: 39.9833300
+          long: -0.0333300
+          icon: estrella
+          link: http://www.castello.es/web30/pages/noticias_web10.php?cod=15928
+          text: >
+            <p>Ampliación del espacio peatonal y ciclista en 13 calles.</p>
